@@ -1,2 +1,2 @@
-# ScalaSparkForBIgDataML
-Spark with Scala for BigData and Machine Learning
+# Scala-and-Spark-Bootcamp
+Scala and Spark Bootcamp Materials
